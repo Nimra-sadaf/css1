@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(252, 252, 252);
+    font-style: sans-serif;
+    h1{
+        color: rgb(7, 206, 206);
+        padding: 15px;
+    }
+    .fgh{
+        color: rgb(207, 227, 89);
+        padding: 10px;
+        font-size: larger;
+        font-weight: 900;
+
+    }
+    .all-colors{
+        color: rgb(201, 201, 175);
+        padding: 10px;
+    }
+    .parent-container{
+        display: flex;
+    }
+    .box{
+        background-color: #0fb5b5;
+        color: white;
+        padding: 25px;
+        align-content: space-around;
+    }
+    .mym{
+        font-size: x-large;
+        padding: 10px;
+    }
+    .pop{
+        background-color: #70d3cf;
+        padding: 25px;
+        color: rgb(255, 255, 255);
+        align-content: space-around;
+    }
+    .price {
+        font-size: x-large;
+        font-weight: bold; 
+    }
+    .asd {
+        background-color: rgba(198, 246, 78, 0.975);
+        color: white;
+        padding-left: 80px;
+        padding-right:80px ;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        box-shadow: 4.0px 8.0px 8.0px hsla(0, 2%, 47%, 0.38);
+    }
+    .qwe {
+        color: rgba(223, 223, 223, 0.57);
+    }
+}
